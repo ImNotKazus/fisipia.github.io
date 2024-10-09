@@ -1,0 +1,31 @@
+body {
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.829);
+}
+
+.poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.voltar{
+    width: 100px;
+    position: fixed;
+    left: 20px;
+    top: 10px;
+}
+
+.textao{
+    margin-top: 100px;
+}
